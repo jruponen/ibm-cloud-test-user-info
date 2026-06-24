@@ -21,7 +21,7 @@ IBM Cloud Test is an iOS app that helps you test network latency to IBM Cloud da
 ### Core Functionality
 - ✅ Test latency to 17 IBM Cloud datacenters worldwide (currently)
 - ✅ Real-time, round-trip and non-cached network performance measurement
-- ✅ Provides test results datacenter location (city), region and color-coded zone type indicators
+- ✅ Provides test results by datacenter location (city), region and zone type
 - ✅ Sort results by datacenter location (city), region, or latency
 
 ### Export & Sharing
