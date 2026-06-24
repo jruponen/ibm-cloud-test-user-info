@@ -4,6 +4,10 @@ Support documentation for the IBM Cloud Test iOS app.
 
 ## About
 
+<p align="center">
+  <img src="globe-timing-3.png" alt="IBM Cloud Test App Icon" width="200"/>
+</p>
+
 IBM Cloud Test is an iOS app that helps you test network latency to IBM Cloud datacenters worldwide. It helps to plan for optimal datacenter location for your cloud infrastructure based on real-time network performance.
 
 ## Download
