@@ -211,11 +211,11 @@ Please include:
 
 ## Disclaimer
 
-This is an unofficial, independent tool and is not affiliated with, endorsed by, or sponsored by IBM Corporation. 
+This is an unofficial, independent tool and is not affiliated with, endorsed by, or sponsored by IBM Corporation.  
+The app uses publicly documented IBM Cloud Object Storage endpoints to measure network latency. All endpoint URLs are publicly available in IBM Cloud documentation.  
+The app is provided for informational and testing purposes only.  
 
 "IBM Cloud" is a trademark of International Business Machines Corporation, registered in many jurisdictions worldwide. This app is provided for informational and testing purposes only. 
-
-The app uses publicly documented IBM Cloud Object Storage endpoints to measure network latency. All endpoint URLs are publicly available in IBM Cloud documentation. 
 
 ## Version History
 
