@@ -99,11 +99,13 @@ Tap the blue **"Zone Types: MZR, SZR, CLA"** button at the bottom of UI to learn
 
 **This app does not collect any personal information.**
 
+- ✅ No logins
+- ✅ No IBM Cloud account needed
 - ✅ No user data collection
 - ✅ No tracking or analytics
-- ✅ No account required
-- ✅ All tests are performed locally on your device
 - ✅ No data is transmitted to third parties
+- ✅ All tests are performed locally on your device
+- ✅ All data is discarded when the app is closed
 
 ## Frequently Asked Questions
 
