@@ -196,8 +196,7 @@ Zone types are color-coded:
 ## Contact & Feedback
 
 ### Email Feedback (no support)
-Contact for feedback:
-- **Email**: feedback@forumlab.fi
+Contact for feedback: feedback@forumlab.fi
 
 ### Report a Bug
 Should you notice a bug or other difficulty with the app, send feedback to the email address above.
