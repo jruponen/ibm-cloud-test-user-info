@@ -232,7 +232,7 @@ The app is provided for informational and testing purposes only.
 
 **Copyright © 2026 Jukka Ruponen. All rights reserved.**
 
-This app and its documentation are proprietary. The compiled application is distributed through the Apple App Store under the terms of the Apple Developer Program License Agreement.
+This app and its documentation are proprietary. The compiled application is distributed through the Apple App Store under the terms of the [Apple Developer Program License Agreement](https://developer.apple.com/support/terms/apple-developer-program-license-agreement) and [Apple's Standard License Agreement](http://www.apple.com/legal/itunes/appstore/dev/stdeula).
 
 ---
 
