@@ -14,7 +14,7 @@ IBM Cloud Test is an iOS app that helps you test network latency to IBM Cloud da
 - **App Name**: IBM Cloud Test
 - **Category**: Utilities, Developer tools
 - **Price**: Free
-- **Requirements**: iOS 17.0 or later
+- **Requirements**: iPhone with iOS 17.0 or later
 
 [Download on the App Store](#) *(link will be added after approval)*
 
